@@ -3,7 +3,7 @@ title: Stories on a Dime
 layout: about
 permalink: /exhibit.html
 ---
-{% include feature/image.html objectid="Stories_on_a_Dime" %}
+{% include feature/image.html objectid="img001" %}
 ## About Dime Novels
 
 Dime novels of the late 19th and early 20th provided entertainment in the form of genre fiction that has endured to this day.
