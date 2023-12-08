@@ -3,6 +3,7 @@ title: The Rise of Genre Fiction
 layout: about
 permalink: /genrefiction.html
 ---
+<h1><center>The Rise of Genre Fiction</center></h1>
 {% include feature/nav-menu.html sections="Westerns and Frontier Adventures;Mystery and Detective Stories;Romances;ScienceFiction;Seafaring Adventures;SportsStories" %}
 
 **Westerns and Frontier Adventures**
