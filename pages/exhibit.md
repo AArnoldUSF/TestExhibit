@@ -2,7 +2,6 @@
 title: Stories on a Dime
 layout: about
 permalink: /exhibit.html
-
 ---
 {% include feature/image.html objectid="Stories_on_a_Dime" %}
 ## About Dime Novels
