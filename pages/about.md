@@ -7,7 +7,7 @@ credits: true
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
-
+{% include feature/image.html objectid="Stories_on_a_Dime" %}
 ## About Dime Novels
 
 Dime novels of the late 19th and early 20th provided entertainment in the form of genre fiction that has endured to this day.
