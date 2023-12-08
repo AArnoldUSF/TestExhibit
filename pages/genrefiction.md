@@ -9,7 +9,7 @@ permalink: /genrefiction.html
 Westerns and frontier adventures were extremely popular and laid the foundational template for the same genre today.
 
 Fictionalized stories of Buffalo Bill, Calamity Jane, and Jesse James were sold alongside stories of original characters like Seth Jones to delight audience with adventures in the American West.
-{% include feature/pdf.html objectid="dimenovels002" width="25%" %}{% include feature/pdf.html objectid="dimenovels003" width="25%" %}{% include feature/pdf.html objectid="dimenovels004" width="25%" %}
+{% include feature/pdf.html objectid="dimenovels002; dimenovels003; dimenovels004" width="25%" %}
 <p></p>
 <p></p>
 **Mystery and Detective Stories**
