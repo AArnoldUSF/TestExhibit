@@ -9,3 +9,17 @@ permalink: /stereotypes.html
 
 <h4>Stereotypes in Representation</h4>
 <p>By the mid-1930s, the word stereotype was being used to refer to oversimplified, generalized representations of people in media. The representations of people of color in dime novels and other popular literature affected the representations of members of those communities in other forms of burgeoning media of the time.</p>
+<div class="container">
+  <div class="row">
+    <div class="col">
+      {% include feature/pdf.html objectid="dimenovels023" width="35" %}
+    </div>
+    <div class="col">
+      {% include feature/pdf.html objectid="dimenovels024" width="35" %}
+    </div>
+    <div class="col">
+      {% include feature/pdf.html objectid="dimenovels025" width="35" %}
+    </div>
+  </div>
+</div>
+<p></p>
