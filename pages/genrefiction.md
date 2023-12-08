@@ -3,6 +3,8 @@ title: The Rise of Genre Fiction
 layout: about
 permalink: /genrefiction.html
 ---
+{% include feature/nav-menu.html sections="Westerns and Frontier Adventures;Mystery and Detective Stories;Romances;ScienceFiction;Seafaring Adventures;SportsStories" %}
+
 **Westerns and Frontier Adventures**
 Westerns and frontier adventures were extremely popular and laid the foundational template for the same genre today.
 
