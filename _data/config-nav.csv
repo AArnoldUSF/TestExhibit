@@ -1,14 +1,14 @@
 display_name,stub,dropdown_parent
-Home,/
-Exhibit,/exhibit.html
+Home,/,
+Exhibit,/exhibit.html,
 The First of Many,/firstofmany.html,Exhibit
 The Rise of Genre Fiction,/genrefiction.html,Exhibit
 Dime Novels in the News,/inthenews.html,Exhibit
 Stereotypes to Stereotypes,/stereotypes.html,Exhibit
 Dime Novel Legacy,/legacy.html,Exhibit
 Resources & References,/resources.html,Exhibit
-Browse,/browse.html
-Subjects,/subjects.html
-Timeline,/timeline.html
-Data,/data.html
-About,/about.html
+Browse,/browse.html,
+Subjects,/subjects.html,
+Timeline,/timeline.html,
+Data,/data.html,
+About,/about.html,
